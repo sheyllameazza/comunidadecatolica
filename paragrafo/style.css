@@ -1,0 +1,51 @@
+body{
+    margin-top: 56px !important;
+}
+
+nav{
+    top:0px;
+}
+.titulosanta{
+    text-shadow: -1px -1px 5px blue;
+}
+.sessaosanta{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 5vw;
+}
+.santa{
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+    direction: ltr;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    line-height: 25px;
+    text-indent: 50px;
+}
+.conteudo{
+    display: flex;
+    width: 100%;
+    gap: 10px;
+}
+.conteudo h3{
+    font-family: Cormorant Garamond ;
+}
+.caixa{
+    display:flex;
+    flex-direction: column;
+    padding: 15px;
+}
+
+.ilustracao{
+    flex:1;
+}
+.misterios{
+    flex: 2;
+}
+
+.imagemterco{
+    width: 100%;
+}
+

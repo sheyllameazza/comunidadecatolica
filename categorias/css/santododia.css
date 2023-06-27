@@ -1,0 +1,12 @@
+.current-day {
+    background-color: #007bff !important;
+    color: #fff !important;
+}
+
+tbody tr td {
+    cursor: pointer
+}
+tbody tr td:hover {
+    background-color: #f1f1f1;
+}
+
